@@ -4,4 +4,4 @@ def my_collect(array)
     i+=1
 end
 
-collect
+my_collect
